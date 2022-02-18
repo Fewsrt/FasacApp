@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1062572119294",
+    "project_id": "fasacapp",
+    "storage_bucket": "fasacapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062572119294:android:09b56d578aec10c32c81af",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fasac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062572119294-7qafffiiqctt0i0lva0khg9sief0lt2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.fasac",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1062572119294-lkotm3jqpqk0coqm1kitegs53p7q9m1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_6f6ZtER3Cw5_1j7hVXs3im9seiQQWFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062572119294-lkotm3jqpqk0coqm1kitegs53p7q9m1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062572119294-4va4rdoihm0qn4k1eljkfemg2q0ebm4h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.fasac"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
